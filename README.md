@@ -1,5 +1,9 @@
 # ygo-1103-old-rulings
 
+> **中文简介**：用于查证**游戏王 OCG 1103 环境**（2011 年 3 月禁限卡表、大师规则 2）旧裁定与勘误前卡文的 AI Skill 和 Python 查询脚本，可自动查找 `yugioh-wiki.net` 历史版本与寒波亭 1103 裁定整理并给出可核对的原始出处。本仓库按现状提供，不承诺持续维护。
+> - 安装与使用：[中文安装说明（README.zh-CN.md）](README.zh-CN.md)
+> - 不用 AI 也能查：[三步查清 OCG 1103 旧裁定（中文教程）](docs/how-to-check-old-rulings.zh-CN.md)
+
 An AI agent skill and Python standard-library toolkit for verifying historical **Yu-Gi-Oh! OCG 1103** (March 2011 Forbidden & Limited list, Master Rule 2) card rulings and pre-errata texts with verifiable primary sources (yugioh-wiki backup revisions, Kanpatei's 1103 ruling compilation, Yugipedia errata history, etc.).
 
 > **Status: Provided as-is, with no commitment to ongoing maintenance.**
